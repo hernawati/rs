@@ -1,0 +1,721 @@
+2013/10/21 17:26:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=gii
+---
+2013/10/21 17:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=gii
+---
+2013/10/21 18:05:43 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:05:43 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:05:43 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:05:43 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:06:32 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:06:32 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:06:32 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:06:32 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:30 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:07:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:08:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:10:53 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`coba`.`dokter`, CONSTRAINT `dokter_ibfk_1` FOREIGN KEY (`id_spesialis`) REFERENCES `spesialis` (`id_spesialis`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `dokter` (`kode_dokter`, `nama_dokter`, `id_spesialis`) VALUES (:yp0, :yp1, :yp2).
+in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php (73)
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:10:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`coba`.`dokter`, CONSTRAINT `dokter_ibfk_1` FOREIGN KEY (`id_spesialis`) REFERENCES `spesialis` (`id_spesialis`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `dokter` (`kode_dokter`, `nama_dokter`, `id_spesialis`) VALUES (:yp0, :yp1, :yp2)' in D:\xampp\htdocs\yiiaja\framework\db\CDbCommand.php:357
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(73): CActiveRecord->save()
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): DokterController->actionCreate()
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('create')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/create')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/create
+HTTP_REFERER=http://localhost:8585/yiiaja/index.php?r=dokter/create
+---
+2013/10/21 18:12:10 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`coba`.`dokter`, CONSTRAINT `dokter_ibfk_1` FOREIGN KEY (`id_spesialis`) REFERENCES `spesialis` (`id_spesialis`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `dokter` (`kode_dokter`, `nama_dokter`, `id_spesialis`) VALUES (:yp0, :yp1, :yp2).
+in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php (73)
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/21 18:12:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`coba`.`dokter`, CONSTRAINT `dokter_ibfk_1` FOREIGN KEY (`id_spesialis`) REFERENCES `spesialis` (`id_spesialis`) ON DELETE CASCADE ON UPDATE CASCADE). The SQL statement executed was: INSERT INTO `dokter` (`kode_dokter`, `nama_dokter`, `id_spesialis`) VALUES (:yp0, :yp1, :yp2)' in D:\xampp\htdocs\yiiaja\framework\db\CDbCommand.php:357
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(73): CActiveRecord->save()
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): DokterController->actionCreate()
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('create')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/create')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/create
+HTTP_REFERER=http://localhost:8585/yiiaja/index.php?r=dokter/create
+---
+2013/10/21 18:13:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "spesialis/create".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('spesialis/creat...')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=spesialis/create
+---
+2013/10/21 18:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "spesialistcreate".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('spesialistcreat...')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=spesialistcreate
+---
+2013/10/21 18:13:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "spesialist/create".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('spesialist/crea...')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=spesialist/create
+---
+2013/10/21 18:16:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php:157
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(55): DokterController->loadModel('02')
+#1 [internal function]: DokterController->actionView('02')
+#2 D:\xampp\htdocs\yiiaja\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DokterController), Array)
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DokterController), Object(ReflectionMethod), Array)
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('view')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/view')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/view&id=02
+---
+2013/10/22 05:58:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 05:58:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 06:04:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php:157
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(55): DokterController->loadModel('01')
+#1 [internal function]: DokterController->actionView('01')
+#2 D:\xampp\htdocs\yiiaja\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DokterController), Array)
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DokterController), Object(ReflectionMethod), Array)
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('view')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/view')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/view&id=01
+---
+2013/10/22 06:07:05 [error] [exception.CException] exception 'CException' with message 'Property "CSafeValidator.off" is not defined.' in D:\xampp\htdocs\yiiaja\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\validators\CValidator.php(189): CComponent->__set('off', 'search')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CModel.php(286): CValidator::createValidator('safe', Object(Dokter), 'kode_dokter, na...', Array)
+#2 D:\xampp\htdocs\yiiaja\framework\base\CModel.php(260): CModel->createValidators()
+#3 D:\xampp\htdocs\yiiaja\framework\web\helpers\CHtml.php(1964): CModel->getValidators('kode_dokter')
+#4 D:\xampp\htdocs\yiiaja\framework\web\helpers\CHtml.php(1257): CHtml::activeInputField('text', Object(Dokter), 'kode_dokter', Array)
+#5 D:\xampp\htdocs\yiiaja\framework\zii\widgets\grid\CDataColumn.php(97): CHtml::activeTextField(Object(Dokter), 'kode_dokter', Array)
+#6 D:\xampp\htdocs\yiiaja\framework\zii\widgets\grid\CGridColumn.php(109): CDataColumn->renderFilterCellContent()
+#7 D:\xampp\htdocs\yiiaja\framework\zii\widgets\grid\CGridView.php(505): CGridColumn->renderFilterCell()
+#8 D:\xampp\htdocs\yiiaja\framework\zii\widgets\grid\CGridView.php(483): CGridView->renderFilter()
+#9 D:\xampp\htdocs\yiiaja\framework\zii\widgets\grid\CGridView.php(453): CGridView->renderTableHeader()
+#10 D:\xampp\htdocs\yiiaja\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 [internal function]: CBaseListView->renderSection(Array)
+#12 D:\xampp\htdocs\yiiaja\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#13 D:\xampp\htdocs\yiiaja\framework\zii\widgets\CBaseListView.php(128): CBaseListView->renderContent()
+#14 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(173): CBaseListView->run()
+#15 D:\xampp\htdocs\yiiaja\protected\views\dokter\admin.php(55): CBaseController->widget('zii.widgets.gri...', Array)
+#16 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(126): require('D:\xampp\htdocs...')
+#17 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(95): CBaseController->renderInternal('D:\xampp\htdocs...', Array, true)
+#18 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): CBaseController->renderFile('D:\xampp\htdocs...', Array, true)
+#19 D:\xampp\htdocs\yiiaja\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#20 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(143): CController->render('admin', Array)
+#21 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): DokterController->actionAdmin()
+#22 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#24 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#26 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#27 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#28 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#29 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('admin')
+#31 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/admin')
+#32 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#34 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/admin
+HTTP_REFERER=http://localhost:8585/yiiaja/index.php?r=dokter/
+---
+2013/10/22 10:28:44 [error] [php] Array to string conversion (D:\xampp\htdocs\yiiaja\protected\views\dokter\_form.php:32)
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): DokterController->renderFile()
+#1 D:\xampp\htdocs\yiiaja\protected\views\dokter\create.php(18): DokterController->renderPartial()
+#2 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(126): require()
+#3 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(95): DokterController->renderInternal()
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): DokterController->renderFile()
+#5 D:\xampp\htdocs\yiiaja\framework\web\CController.php(782): DokterController->renderPartial()
+#6 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(79): DokterController->render()
+#7 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): DokterController->actionCreate()
+#8 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): DokterController->runAction()
+#10 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): DokterController->filterAccessControl()
+#13 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#15 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): DokterController->runActionWithFilters()
+#16 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): DokterController->run()
+#17 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 D:\xampp\htdocs\yiiaja\index.php(13): CWebApplication->run()
+REQUEST_URI=/yiiaja/index.php?r=dokter/create
+in D:\xampp\htdocs\yiiaja\protected\views\dokter\_form.php (32)
+in D:\xampp\htdocs\yiiaja\protected\views\dokter\create.php (18)
+in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php (79)
+2013/10/22 10:34:24 [error] [php] Array to string conversion (D:\xampp\htdocs\yiiaja\protected\views\dokter\_form.php:32)
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): DokterController->renderFile()
+#1 D:\xampp\htdocs\yiiaja\protected\views\dokter\create.php(18): DokterController->renderPartial()
+#2 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(126): require()
+#3 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(95): DokterController->renderInternal()
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): DokterController->renderFile()
+#5 D:\xampp\htdocs\yiiaja\framework\web\CController.php(782): DokterController->renderPartial()
+#6 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(79): DokterController->render()
+#7 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): DokterController->actionCreate()
+#8 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): DokterController->runAction()
+#10 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): DokterController->filterAccessControl()
+#13 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#15 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): DokterController->runActionWithFilters()
+#16 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): DokterController->run()
+#17 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 D:\xampp\htdocs\yiiaja\index.php(13): CWebApplication->run()
+REQUEST_URI=/yiiaja/index.php?r=dokter/create
+in D:\xampp\htdocs\yiiaja\protected\views\dokter\_form.php (32)
+in D:\xampp\htdocs\yiiaja\protected\views\dokter\create.php (18)
+in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php (79)
+2013/10/22 12:38:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in D:\xampp\htdocs\yiiaja\protected\controllers\SpesialisController.php:157
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\protected\controllers\SpesialisController.php(55): SpesialisController->loadModel('01')
+#1 [internal function]: SpesialisController->actionView('01')
+#2 D:\xampp\htdocs\yiiaja\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(SpesialisController), Array)
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(SpesialisController), Object(ReflectionMethod), Array)
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('view')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('spesialis/view')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=spesialis/view&id=01
+HTTP_REFERER=http://localhost:8585/yiiaja/index.php?r=spesialis/index
+---
+2013/10/22 13:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ruth/index".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('ruth/index')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=ruth/index
+---
+2013/10/22 13:30:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:30:53 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:31:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:32:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php:157
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\protected\controllers\DokterController.php(55): DokterController->loadModel('02')
+#1 [internal function]: DokterController->actionView('02')
+#2 D:\xampp\htdocs\yiiaja\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DokterController), Array)
+#3 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DokterController), Object(ReflectionMethod), Array)
+#4 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 D:\xampp\htdocs\yiiaja\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 D:\xampp\htdocs\yiiaja\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 D:\xampp\htdocs\yiiaja\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('view')
+#13 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/view')
+#14 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/view&id=02
+---
+2013/10/22 13:35:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "r=gii/".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('r=gii/')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=r=gii/
+---
+2013/10/22 13:35:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:51 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:35:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kamar' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kamar`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.kelas' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `kelas`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nama' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nama`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:36:48 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.tb_nilai' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tb_nilai`.
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 13:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "doke".' in D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('doke')
+#1 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yiiaja/index.php?r=doke
+---
+2013/10/22 13:38:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "indec".' in D:\xampp\htdocs\yiiaja\framework\web\CController.php:483
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\web\CController.php(270): CController->missingAction('indec')
+#1 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('indec')
+#2 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('dokter/indec')
+#3 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yiiaja/index.php?r=dokter/indec
+---
+2013/10/22 14:40:41 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.rekammedik' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `rekammedik`.
+in D:\xampp\htdocs\yiiaja\protected\controllers\RekamMedikController.php (9)
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 14:40:41 [error] [exception.CDbException] exception 'CDbException' with message 'The table "rekammedik" for active record class "Rekammedik" cannot be found in the database.' in D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Rekammedik))
+#1 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('Rekammedik')
+#2 D:\xampp\htdocs\yiiaja\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 D:\xampp\htdocs\yiiaja\protected\controllers\RekamMedikController.php(9): CActiveRecord->__construct()
+#4 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): RekammedikController->actionIndex()
+#5 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 D:\xampp\htdocs\yiiaja\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#7 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('index')
+#9 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('rekammedik/inde...')
+#10 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#11 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yiiaja/index.php?r=rekammedik/index
+---
+2013/10/22 14:43:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.pasien' doesn't exist. The SQL statement executed was: SELECT REKAMMEDIK.REM_TGLKUNJUNGAN as TANGGAL_KUNJUNGAN,REKAMMEDIK.PAS_NOREKAMMEDIK as NO_REKAMMEDIK,PASIEN.PAS_NAMAPASIEN as NAMA_PASIEN,PASIEN.PAS_STATUSPEMBAYARAN as STATUS_PEMBAYARAN FROM REKAMMEDIK INNER JOIN PASIEN
+		ON REKAMMEDIK.PAS_NOREKAMMEDIK=PASIEN.PAS_NOREKAMMEDIK
+		WHERE YEAR(REM_TGLKUNJUNGAN) = YEAR(NOW()) and MONTH(REM_TGLKUNJUNGAN)=MONTH(NOW()) and DAY(REM_TGLKUNJUNGAN)=DAY(NOW()) order by REM_TGLKUNJUNGAN LIMIT 10.
+in D:\xampp\htdocs\yiiaja\protected\views\rekammedik\admin.php (16)
+in D:\xampp\htdocs\yiiaja\protected\controllers\RekamMedikController.php (18)
+in D:\xampp\htdocs\yiiaja\index.php (13)
+2013/10/22 14:43:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coba.pasien' doesn't exist. The SQL statement executed was: SELECT REKAMMEDIK.REM_TGLKUNJUNGAN as TANGGAL_KUNJUNGAN,REKAMMEDIK.PAS_NOREKAMMEDIK as NO_REKAMMEDIK,PASIEN.PAS_NAMAPASIEN as NAMA_PASIEN,PASIEN.PAS_STATUSPEMBAYARAN as STATUS_PEMBAYARAN FROM REKAMMEDIK INNER JOIN PASIEN
+		ON REKAMMEDIK.PAS_NOREKAMMEDIK=PASIEN.PAS_NOREKAMMEDIK
+		WHERE YEAR(REM_TGLKUNJUNGAN) = YEAR(NOW()) and MONTH(REM_TGLKUNJUNGAN)=MONTH(NOW()) and DAY(REM_TGLKUNJUNGAN)=DAY(NOW()) order by REM_TGLKUNJUNGAN LIMIT 10' in D:\xampp\htdocs\yiiaja\framework\db\CDbCommand.php:541
+Stack trace:
+#0 D:\xampp\htdocs\yiiaja\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 D:\xampp\htdocs\yiiaja\framework\web\CSqlDataProvider.php(108): CDbCommand->queryAll()
+#2 D:\xampp\htdocs\yiiaja\framework\web\CDataProvider.php(168): CSqlDataProvider->fetchData()
+#3 D:\xampp\htdocs\yiiaja\framework\web\CDataProvider.php(212): CDataProvider->getData(false)
+#4 D:\xampp\htdocs\yiiaja\framework\base\CComponent.php(111): CDataProvider->getItemCount()
+#5 D:\xampp\htdocs\yiiaja\protected\views\rekammedik\admin.php(16): CComponent->__get('itemCount')
+#6 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(126): require('D:\xampp\htdocs...')
+#7 D:\xampp\htdocs\yiiaja\framework\web\CBaseController.php(95): CBaseController->renderInternal('D:\xampp\htdocs...', Array, true)
+#8 D:\xampp\htdocs\yiiaja\framework\web\CController.php(869): CBaseController->renderFile('D:\xampp\htdocs...', Array, true)
+#9 D:\xampp\htdocs\yiiaja\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#10 D:\xampp\htdocs\yiiaja\protected\controllers\RekamMedikController.php(18): CController->render('admin', Array)
+#11 D:\xampp\htdocs\yiiaja\framework\web\actions\CInlineAction.php(49): RekammedikController->actionIndex()
+#12 D:\xampp\htdocs\yiiaja\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 D:\xampp\htdocs\yiiaja\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 D:\xampp\htdocs\yiiaja\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(282): CController->run('index')
+#16 D:\xampp\htdocs\yiiaja\framework\web\CWebApplication.php(141): CWebApplication->runController('rekammedik/inde...')
+#17 D:\xampp\htdocs\yiiaja\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 D:\xampp\htdocs\yiiaja\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yiiaja/index.php?r=rekammedik/index
+---
